@@ -1,2 +1,6 @@
-# OSS-LAB-.1
-OSS LAB ASSIGNMENT
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
